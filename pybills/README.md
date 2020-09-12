@@ -1,0 +1,1 @@
+simple spreadsheet generator to track the money you spent
